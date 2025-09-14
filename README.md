@@ -1,4 +1,4 @@
-# sprick-world.de 🌍
+# 🌍 Website sprick-world.de 
 
 Dies ist das Repository für meine persönliche Website **sprick-world.de**.  
 Die Seite dient als digitale Visitenkarte, Portfolio und Projektplattform.
